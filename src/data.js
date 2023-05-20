@@ -54,6 +54,8 @@ export const projects = [
       " Job search app where you can press a job and apply ",
     link: "https://expo.dev/@brygulley25/crashcourse?serviceType=classic&distribution=expo-go",
     image: "./crashcourse.gif",
+    style:"{ width: '100px', height: '100px' }"
+    
   }
 ];
 
